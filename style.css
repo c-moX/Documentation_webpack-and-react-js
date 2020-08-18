@@ -1,0 +1,88 @@
+/*------------
+Name: style.css 
+Version: 1.0 
+Email: simox71yznath@gmail.com
+Phone: 01799867752
+Web: 
+---------------------*/
+
+body{
+    font-family: cursive;
+    background-image: url(./images/background.jpg);
+    background: #363636;
+}
+
+/* Start main */
+.logo{
+    width: 50px;
+    height: 65px;
+    border-radius: 100%;
+    line-height: 70px;
+    color: antiquewhite;
+    background-color: red;
+    margin-top: 5px;
+    margin-left: 160px;
+    font-size: 30px;
+    text-shadow: 1px 3px 1px;
+}
+.header{
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    font-style: oblique;
+    font-variant-caps: petite-caps;
+    font-weight: lighter;
+    margin-bottom: 120px;
+    border-bottom: 2px solid darkgoldenrod;
+}
+
+/* Package_Documentation */
+h4{
+    border-bottom: 2px solid #000;
+    width: 150px;
+}
+
+.webpack-contents code{
+    background: #65653E;
+    padding: 5px;
+    border: 1px solid rgb(25, 25, 165);
+}
+.react-contents{
+    border-left: 2px solid red;
+    padding-left: 50px;
+}
+
+/* Contact 03 */
+.contactt input{
+    margin-bottom: 30px;
+    border: 1px solid #000;
+    padding: 5px;
+    text-decoration-color: #000;
+    background-color: transparent;
+}
+.contactt textarea{
+    padding-right: 315px;
+    background-color: transparent;
+    border: 1px solid #000;
+}
+.contactt button{
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 20px;
+    margin-left: 210px;
+    border: 1px solid #000;
+    background-color: transparent;
+}
+
+/* Footer */
+.foter{
+    background-color: darkgoldenrod;
+    padding: 10px;
+    text-shadow: 1px 2px 3px;
+}
+.foter-icons a{
+    color: #101010;
+    margin: 5px;
+} 
+/* End main */
+
