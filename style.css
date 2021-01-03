@@ -8,20 +8,20 @@ Web:
 
 body{
     font-family: cursive;
-    background-image: url(./images/background.jpg);
-    background: #363636;
 }
 
 /* Start main */
 .logo{
+	text-align: justify;
     width: 50px;
     height: 65px;
     border-radius: 100%;
     line-height: 70px;
-    color: antiquewhite;
+    color: blue;
+	opacity: 50%;
     background-color: red;
-    margin-top: 5px;
-    margin-left: 160px;
+    margin-top: 50px;
+    margin-left: 47%;
     font-size: 30px;
     text-shadow: 1px 3px 1px;
 }
@@ -74,15 +74,6 @@ h4{
     background-color: transparent;
 }
 
-/* Footer */
-.foter{
-    background-color: darkgoldenrod;
-    padding: 10px;
-    text-shadow: 1px 2px 3px;
-}
-.foter-icons a{
-    color: #101010;
-    margin: 5px;
-} 
-/* End main */
+
+
 
